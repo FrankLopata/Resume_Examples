@@ -1,3 +1,8 @@
+Program is a function connect four game. Please see individual files for descriptions
+
+
+
+
 # This repository contains all the coding projects
 # I could find from before March 2023.
 #
